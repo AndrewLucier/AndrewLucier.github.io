@@ -1,0 +1,19 @@
+body{
+    background-image: linear-gradient(to right, white, #2eacd4);
+}
+
+header{
+    text-align: center;
+}
+
+nav{
+    height: 10000px;
+    width: 200px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+}
+
+footer{
+    text-align: center;
+}
